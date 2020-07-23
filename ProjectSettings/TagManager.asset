@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Default
+  - Enemy
+  - Paper
+  - Bullet
+  - Ground
+  - Score
+  - Sword
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1495004173
+    locked: 0
+  - name: BGProps
+    uniqueID: 3431079559
+    locked: 0
+  - name: Ground
+    uniqueID: 1842761271
+    locked: 0
+  - name: Props
+    uniqueID: 1773659413
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MG
+    uniqueID: 2246050935
+    locked: 0
+  - name: Enemy
+    uniqueID: 19110139
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1426062139
+    locked: 0
+  - name: Player
+    uniqueID: 3665868079
+    locked: 0
+  - name: FG
+    uniqueID: 274513495
+    locked: 0
